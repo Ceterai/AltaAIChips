@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "salvagetier4", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "ct_alta_sail_ai_chip_x",
+    "count" : 1
+  },
+  "groups" : [ "mod", "aichip" ]
+}
