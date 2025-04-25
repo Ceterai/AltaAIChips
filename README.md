@@ -1,6 +1,12 @@
 # Alta A.I. Chips
 
-This small Starbound mod contains A.I. Chips from the ![ ](https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png) [My Enternia](https://github.com/Ceterai/Enternia) mod, meant to be used with the [Customizable A.I.](https://steamcommunity.com/workshop/filedetails/?id=947429656) mod.
+<div align="center" style="font-size: 150%;">
+<a class="ct_button" href="https://ceterai.github.io/MyEnternia/Mods/AltaNarfinShipPet">WEBSITE</a> | <a class="ct_button" href="https://github.com/Ceterai/AltaNarfinShipPet">GITHUB</a><br>
+<a class="ct_button" href="https://steamcommunity.com/sharedfiles/filedetails/?id=3358749834">STEAM</a> | <a class="ct_button" href="https://community.playstarbound.com/resources/alta-ship-pet-narfin.6325/">SB FORUMS</a><br>
+<a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
+</div>
+
+This small Starbound mod contains A.I. Chips from the ![Ceterai's](https://raw.githubusercontent.com/Ceterai/Enternia/main/interface/bookmarks/icons/ct_alterash_planet.png) [My Enternia](https://github.com/Ceterai/Enternia) mod, meant to be used with the [Customizable A.I.](https://github.com/xn-5o8h/sbmod_scriptedsail) mod.
 
 Use this if you want to have those chips without having to use the rest of My Enternia.
 
@@ -30,7 +36,3 @@ Get this mod on the official Chucklefish Forums: [Link](https://community.playst
 > When downloading a release, you can choose between a `.zip` and a `.pak` version.
 
 > Files, attached to releases, support direct public download links, so **can be used by servers** as well.
-
-### Nexus Mods
-
-- *COMING SOON*
