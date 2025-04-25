@@ -1,8 +1,8 @@
 # Alta A.I. Chips
 
 <div align="center" style="font-size: 150%;">
-<a class="ct_button" href="https://ceterai.github.io/MyEnternia/Mods/AltaNarfinShipPet">WEBSITE</a> | <a class="ct_button" href="https://github.com/Ceterai/AltaNarfinShipPet">GITHUB</a><br>
-<a class="ct_button" href="https://steamcommunity.com/sharedfiles/filedetails/?id=3358749834">STEAM</a> | <a class="ct_button" href="https://community.playstarbound.com/resources/alta-ship-pet-narfin.6325/">SB FORUMS</a><br>
+<a class="ct_button" href="https://ceterai.github.io/MyEnternia/Mods/AltaAIChips">WEBSITE</a> | <a class="ct_button" href="https://github.com/Ceterai/AltaAIChips">GITHUB</a><br>
+<a class="ct_button" href="https://steamcommunity.com/sharedfiles/filedetails/?id=3276795992">STEAM</a> | <a class="ct_button" href="https://community.playstarbound.com/resources/alta-a-i-chips.6317/">SB FORUMS</a><br>
 <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
 </div>
 
@@ -22,11 +22,11 @@ These are all the different ways to obtain the mod - choose whichever one you li
 
 ### Steam
 
-Subscribe to this mod on Steam! [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=3276795992)
+Subscribe to this mod on Steam!
 
 ### Starbound Forums
 
-Get this mod on the official Chucklefish Forums: [Link](https://community.playstarbound.com/resources/alta-a-i-chips.6317/)
+Get this mod on the official Chucklefish Forums!
 
 ### GitHub
 
@@ -36,3 +36,7 @@ Get this mod on the official Chucklefish Forums: [Link](https://community.playst
 > When downloading a release, you can choose between a `.zip` and a `.pak` version.
 
 > Files, attached to releases, support direct public download links, so **can be used by servers** as well.
+
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/Ceterai/AltaAIChips/refs/heads/main/.meta/showcase/ai_alta_sail.png" width="50%" alt="Classic version alta S.A.I.L." loading="lazy"><img src="https://raw.githubusercontent.com/Ceterai/AltaAIChips/refs/heads/main/.meta/showcase/ai_alta_security.png" width="50%" alt="Security version alta S.A.I.L." loading="lazy"><img src="https://raw.githubusercontent.com/Ceterai/AltaAIChips/refs/heads/main/.meta/showcase/ai_alta.png" width="50%" alt="Basic version alta S.A.I.L." loading="lazy"><img src="https://raw.githubusercontent.com/Ceterai/AltaAIChips/refs/heads/main/.meta/showcase/ai_ceterai.png" width="50%" alt="CTOS version alta S.A.I.L." loading="lazy"><img src="https://raw.githubusercontent.com/Ceterai/AltaAIChips/refs/heads/main/.meta/showcase/ai_eds.png" width="50%" alt="EDS version alta S.A.I.L." loading="lazy"><img src="https://raw.githubusercontent.com/Ceterai/AltaAIChips/refs/heads/main/.meta/showcase/ai_ship.png" width="50%" alt="Elite version alta S.A.I.L." loading="lazy">
